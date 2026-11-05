@@ -4,6 +4,13 @@ All notable changes to this repository are documented here. Format follows [Keep
 
 ## [Unreleased]
 
+## [v0.2.0] - 2026-11-05
+
+### Added (Wave H5: CR-019)
+
+- The operating modes and promotion gates: five modes per action class (observe-only, recommend, approval-gated, bounded, expanded) with entry, promotion, demotion and stop criteria; the conformance-versus-authorisation distinction; the mapping onto the maturity model. Authority is never widened by a mode; promotion consumes the evaluation tier's protocol (CR-031).
+
+
 ## [0.1.0] - 2026-11-04
 
 ### Adoption foundations
