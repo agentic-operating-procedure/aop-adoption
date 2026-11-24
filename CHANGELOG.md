@@ -4,7 +4,7 @@ All notable changes to this repository are documented here. Format follows [Keep
 
 ## [Unreleased]
 
-## [v0.2.0] - 2026-11-05
+## [0.2.0] - 2026-11-05
 
 ### Added (Wave H5: CR-019)
 
@@ -21,5 +21,6 @@ All notable changes to this repository are documented here. Format follows [Keep
 - Published the organisational change guidance: roles, decision rights, and the shift from corridor execution to exception ownership.
 - Published the adopter checklists: one per stage, steward-free.
 
-[Unreleased]: https://github.com/agentic-operating-procedure/aop-adoption/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/agentic-operating-procedure/aop-adoption/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/agentic-operating-procedure/aop-adoption/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/agentic-operating-procedure/aop-adoption/releases/tag/v0.1.0
