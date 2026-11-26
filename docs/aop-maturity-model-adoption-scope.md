@@ -1,4 +1,4 @@
-# AOP Maturity Model (Adoption Scope)
+# AOP Assessment Model (Capability Scope)
 
 Informative. This document states the maturity path from human-operated to autonomous operations, and the obligations that attach at each stage. The model exists so an organisation can state honestly where it is, and so the word "autonomous" is never used as an aspiration when it is actually an earned stage with obligations.
 
